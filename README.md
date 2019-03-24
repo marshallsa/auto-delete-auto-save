@@ -12,5 +12,5 @@ The mode can be enabled by putting this in your init file:
 Or, if you have `use-package`:
 
     (use-package auto-delete-auto-save-mode
-      :config                       ; or customize the
-      (auto-delete-auto-save-mode)  ; `auto-delete-auto-save-mode' variable
+      :config                        ; or customize the
+      (auto-delete-auto-save-mode))  ; `auto-delete-auto-save-mode' variable
